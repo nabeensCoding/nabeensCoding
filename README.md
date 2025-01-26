@@ -4,3 +4,8 @@
   <br/>
   ![Flutter](https://shields.io/badge/flutter-black?logo=flutter&style=for-the-badge)
   ![Node.js](https://shields.io/badge/node.js-black?logo=node.js&style=for-the-badge)
+<b>💡 내가 개발을 하는 이유는?</b>  
+<br/>  
+내가 만든 앱을 사람들이 쓰고, 그게 삶에 도움이 된다는 게 정말 뿌듯해! 😊  
+<br/>  
+지금은 특별한 아이디어가 없어서 📜 외주 작업을 하며 실력을 키우는 중이야. 💪✨  
