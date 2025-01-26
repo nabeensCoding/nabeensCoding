@@ -4,5 +4,6 @@
   <!-- 내용 -->
   <br/>
   
-  ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+  ![Flutter](https://shields.io/badge/flutter-black?logo=flutter&style=for-the-badge)
+  ![Node.js](https://shields.io/badge/node.js-black?logo=node.js&style=for-the-badge)
 </details>
