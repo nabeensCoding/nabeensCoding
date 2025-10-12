@@ -1,11 +1,10 @@
-👋 모두 안녕! 나는 나빈이야!
-  ---
-  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 건...</b>
-  <br/>
-  ![Flutter](https://shields.io/badge/flutter-black?logo=flutter&style=for-the-badge)
-  ![Node.js](https://shields.io/badge/node.js-black?logo=node.js&style=for-the-badge)
-  <br/>
-  <b><img src="https://media.tenor.com/oVds8Dvp3hsAAAAj/cursed-dino.gif" alt="Chrome Dino" width="2%" /> 내가 개발을 하는 이유는?</b>
-  <br/>
-  내가 만든 앱을 사람들이 쓰고, 그게 삶에 도움이 된다는 게 정말 뿌듯해! 😊  
-  지금은 특별한 아이디어가 없어서 📜 외주 작업을 하며 실력을 키우는 중이야. 💪✨  
+👋 Hi there!
+안녕하세요!
+저는 개발자 양나빈입니다.
+감동을 주는 어플을 만들고 싶습니다.
+
+💻 About Me
+🎓 2020.03 ~ 2023.02 한국디지털미디어고등학교 해킹방어과 졸업
+💼 2024.01 ~ 2025.01 크몽(Kmong)에서 Flutter 외주 개발 진행
+🎓 2023.03 ~         경희대학교 산업경영공학과 재학 중
+🚀 2025.01 ~         React, Node.js, React Native를 공부하며 프로젝트 개발 중
